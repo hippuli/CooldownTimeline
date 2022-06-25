@@ -1,0 +1,19 @@
+## Interface: 20504
+## Title: Cooldown Timeline
+## Author: cliffclive (Vreenak - REMULOS)
+## Notes: Track cooldowns as icons along a timeline
+## Version: 1.0
+## SavedVariables: CooldownTimelineDB
+## OptionalDeps: Masque
+
+embeds.xml
+
+CooldownTimeline.lua
+Helpers.lua
+Data.lua
+Timeline.lua
+Ready.lua
+Icon.lua
+Bars.lua
+Fastlane.lua
+Animation.lua
